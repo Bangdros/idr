@@ -1,4 +1,3 @@
-import paramiko
 import picamera
 import os
 import subprocess
